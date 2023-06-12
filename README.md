@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akkharadet you can call me Erang.</h1>
-<h3 align="center">A passionate developer from Thailand.</h3>
 
 <div style="margin-right: 10px;">
 <!-- Dev Card with github action update-->
