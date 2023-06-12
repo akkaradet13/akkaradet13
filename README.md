@@ -1,6 +1,12 @@
 # 💫 About Me:
 i'm developer
 
+<div style="margin-right: 10px;">
+<!-- Dev Card with github action update-->
+<p align="center">
+  <a href="https://app.daily.dev/akkharadet"><img src="https://api.daily.dev/devcards/3d4cae2c18fe41b28001b8167f7ce261.png?r=412" width="400" alt="akkharadet's Dev Card"/></a>
+</p>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Akkharadet Phungphaka) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@akkaradet8.11.41) 
