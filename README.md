@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akkharadet you can call me Erang.</h1>
 
-<div style="margin-right: 10px;">
 <!-- Dev Card with github action update-->
 <p align="center">
   <a href="https://app.daily.dev/akkharadet"><img src="https://api.daily.dev/devcards/3d4cae2c18fe41b28001b8167f7ce261.png?r=412" width="400" alt="akkharadet's Dev Card"/></a>
 </p>
-</div>
 
 ## 🌐 Socials:
   <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
